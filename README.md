@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif
 - 👋 Hi, I’m @lisafavy
 - 👀 I’m interested in proggraming
 - 🌱 I’m currently learning frontend
